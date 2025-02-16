@@ -8,7 +8,7 @@ Developed for CSCI 3482 - Artificial Intelligence (Fall 2024), this project comp
 
 This project includes a full implementation of both chatbots and a comparative analysis of their performance in terms of accuracy, usability, scalability, and response time.
 
-----------
+
 
 ## **📑 Table of Contents**
 - [Project Overview](#project-overview)
@@ -39,12 +39,13 @@ The goal of this project is to evaluate how well an AI-powered chatbot performs 
 ### **Team Members (Team 5)**
 
 -   **Zachary Ivanoff** (Project Leader, AI Chatbot Frontend, Comparative Analysis)
--   **Tooba Javed** (AI Model Development, Data Collection & Cleaning, Comparative Analysis)
+-   **Tooba Javed**(AI Model Development, Data Collection & Cleaning, Comparative Analysis)
 -   **Abhishek Basnet** (Initial AI Model Prototyping)
 -   **Sohrab Gill** (Rules-Based Model Development)
 -   **Youssef Lakhal** (Rules-Based Model Development)
 
-----------
+
+
 
 ## **Repository Contents**
 
@@ -56,7 +57,8 @@ This project includes the following files:
 -   [**SMUlibrarybot.html**](https://github.com/toobajaved/SMU-FAQ-Chatbot/blob/main/SMUlibrarybot.html) – Frontend for the rules-based chatbot.
 -   [**Comparative_Analysis.pdf**](https://github.com/toobajaved/SMU-FAQ-Chatbot/blob/main/Comparative_Analysis.pdf) – A detailed comparison between the two chatbot approaches.
 
-----------
+
+
 
 ## **How to Run the Chatbots**
 
@@ -83,8 +85,10 @@ cd SMU-FAQ-Chatbot
     -   Execute all cells to load the dataset, initialize FAISS, and deploy the chatbot.
     -   The chatbot will be accessible via **Anvil** at:  
         **[https://bountiful-qualified-vehicle.anvil.app/](https://bountiful-qualified-vehicle.anvil.app/)**
+
         
-----------
+
+
 
 ### **Option 2: Running the Rules-Based Chatbot (Localhost Server)**
 
@@ -103,6 +107,10 @@ cd SMU-FAQ-Chatbot
 
 -   Open your web browser and go to **[http://localhost:8000/](http://localhost:8000/)**
 -   The chatbot will be available for interaction.## **Comparative Analysis Summary**
+
+
+
+
 
 ### **Comparison Between AI-Based and Rules-Based Chatbot**
 
@@ -140,7 +148,9 @@ Rules-based: Fast but rigid and repetitive
 
 For a **detailed breakdown**, check out the **Comparative_Analysis.pdf** file in this repository.
 
-----------
+
+
+
 
 ## **Dataset Information**
 
@@ -149,7 +159,9 @@ The FAQ dataset was **curated by Tooba Javed**, who collected and cleaned over *
 -   **Dataset Available on Hugging Face**:  
     **[https://huggingface.co/datasets/tootooba/SMU_FAQDataset](https://huggingface.co/datasets/tootooba/SMU_FAQDataset)**
 
-----------
+
+
+
 
 ## **Future Improvements**
 
@@ -157,19 +169,25 @@ The FAQ dataset was **curated by Tooba Javed**, who collected and cleaned over *
 -   **Optimize Response Time**: Experiment with more efficient retrieval techniques.
 -   **Enhance Rules-Based Chatbot**: Implement NLP-based intent detection for more flexible responses.
 
-----------
+
+
+
 
 ## **License**
 
 This project is licensed under the [**MIT License**](https://github.com/toobajaved/SMU-FAQ-Chatbot/blob/main/LICENSE).
 
-----------
+
+
+
 
 ## **Acknowledgments**
 
 Special thanks to **Saint Mary’s University (SMU)** for the resources and inspiration behind this project.
 
-----------
+
+
+
 
 ## **Questions? Contributions?**
 
