@@ -50,7 +50,7 @@ The goal of this project is to evaluate how well an AI-powered chatbot performs 
 
 This project includes the following files:
 
--   [**README.md**](https://github.com/toobajaved/SMU-FAQ-Chatbot/blob/main/readme.md) – Overview of the project, setup, and instructions.
+-   [**README.md**](https://github.com/toobajaved/SMU-FAQ-Chatbot/blob/main/README.md) – Overview of the project, setup, and instructions.
 -   [**aibot.ipynb**](https://github.com/toobajaved/SMU-FAQ-Chatbot/blob/main/aibot.ipynb) – AI chatbot implementation using MiniLM-L6-V2, FAISS, and GPT-3.5.
 -   [**server.py**](https://github.com/toobajaved/SMU-FAQ-Chatbot/blob/main/server.py) – Python server for the rules-based chatbot.
 -   [**SMUlibrarybot.html**](https://github.com/toobajaved/SMU-FAQ-Chatbot/blob/main/SMUlibrarybot.html) – Frontend for the rules-based chatbot.
