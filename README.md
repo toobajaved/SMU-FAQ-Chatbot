@@ -101,7 +101,7 @@ cd SMU-FAQ-Chatbot
 
 -   Start the chatbot by running:
    ```
-   `python server.py
+   python server.py
    ```
    3. **Access the Chatbot**
 
